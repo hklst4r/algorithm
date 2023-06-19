@@ -1,2 +1,2 @@
-# leetCode
-The repo to store my leetcode solutions
+# algorithm
+The repo to store my codeforces/leetcode solutions
